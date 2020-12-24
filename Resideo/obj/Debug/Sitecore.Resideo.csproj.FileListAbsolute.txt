@@ -1,0 +1,288 @@
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Resideo.dll.config
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Resideo.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Resideo.pdb
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\csc.exe
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\csc.exe.config
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\csc.rsp
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\csi.exe
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\csi.exe.config
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\csi.rsp
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.AppContext.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Collections.Immutable.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Console.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.IO.Compression.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.IO.FileSystem.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.IO.Pipes.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Security.AccessControl.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Security.Claims.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.ValueTuple.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Xml.XPath.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\vbc.exe
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\vbc.exe.config
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\vbc.rsp
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\VBCSCompiler.exe
+D:\Resideo Project\Resideo\Resideo\bin\roslyn\VBCSCompiler.exe.config
+D:\Resideo Project\Resideo\Resideo\bin\System.Data.Common.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Diagnostics.StackTrace.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Diagnostics.Tracing.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Globalization.Extensions.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.IO.Compression.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Net.Http.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Net.Sockets.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Runtime.Serialization.Primitives.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Security.Cryptography.Algorithms.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Security.SecureString.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Threading.Overlapped.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Xml.XPath.XDocument.dll
+D:\Resideo Project\Resideo\Resideo\bin\HtmlAgilityPack.dll
+D:\Resideo Project\Resideo\Resideo\bin\ICSharpCode.SharpZipLib.dll
+D:\Resideo Project\Resideo\Resideo\bin\Lucene.Net.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.AspNet.OData.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.OData.Core.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.OData.Edm.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Spatial.dll
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Web.Infrastructure.dll
+D:\Resideo Project\Resideo\Resideo\bin\Mvp.Xml.dll
+D:\Resideo Project\Resideo\Resideo\bin\Newtonsoft.Json.dll
+D:\Resideo Project\Resideo\Resideo\bin\RazorGenerator.Mvc.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Kernel.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Logging.Client.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Logging.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Mvc.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.NVelocity.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Services.Core.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Services.Infrastructure.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Web.dll
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Zip.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Net.Http.Formatting.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Cors.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Helpers.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Http.Cors.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Http.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Http.WebHost.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Mvc.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Razor.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.WebPages.Deployment.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.WebPages.dll
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.WebPages.Razor.dll
+D:\Resideo Project\Resideo\Resideo\bin\WebActivatorEx.dll
+D:\Resideo Project\Resideo\Resideo\bin\HtmlAgilityPack.pdb
+D:\Resideo Project\Resideo\Resideo\bin\HtmlAgilityPack.xml
+D:\Resideo Project\Resideo\Resideo\bin\Lucene.Net.pdb
+D:\Resideo Project\Resideo\Resideo\bin\Lucene.Net.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.AspNet.OData.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.OData.Core.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.OData.Edm.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.Spatial.xml
+D:\Resideo Project\Resideo\Resideo\bin\Mvp.Xml.xml
+D:\Resideo Project\Resideo\Resideo\bin\Newtonsoft.Json.xml
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Kernel.xml
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Logging.xml
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Logging.Client.xml
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.NVelocity.xml
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Web.xml
+D:\Resideo Project\Resideo\Resideo\bin\Sitecore.Zip.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Net.Http.Formatting.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Helpers.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Http.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Http.Cors.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Http.WebHost.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Mvc.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.Razor.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.WebPages.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.WebPages.Deployment.xml
+D:\Resideo Project\Resideo\Resideo\bin\System.Web.WebPages.Razor.xml
+D:\Resideo Project\Resideo\Resideo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Resideo Project\Resideo\Resideo\obj\Debug\Sitecore.Resideo.csproj.CoreCompileInputs.cache
+D:\Resideo Project\Resideo\Resideo\obj\Debug\Sitecore.Resideo.csproj.CopyComplete
+D:\Resideo Project\Resideo\Resideo\obj\Debug\Sitecore.Resideo.dll
+D:\Resideo Project\Resideo\Resideo\obj\Debug\Sitecore.Resideo.pdb
+D:\Resideo Project\Resideo\Resideo\obj\Debug\Sitecore.Resideo.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Resideo.dll.config
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Resideo.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Resideo.pdb
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\csc.exe
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\csc.rsp
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\csi.exe
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\csi.rsp
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\vbc.exe
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Data.Common.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Diagnostics.Tracing.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Globalization.Extensions.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.IO.Compression.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Net.Http.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Net.Sockets.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Security.SecureString.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Threading.Overlapped.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\HtmlAgilityPack.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Lucene.Net.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.AspNet.OData.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.OData.Core.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.OData.Edm.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Spatial.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Mvp.Xml.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\RazorGenerator.Mvc.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Kernel.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Logging.Client.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Logging.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Mvc.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.NVelocity.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Services.Core.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Services.Infrastructure.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Web.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Zip.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Cors.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Http.Cors.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Http.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Razor.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\WebActivatorEx.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\HtmlAgilityPack.pdb
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\HtmlAgilityPack.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Lucene.Net.pdb
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Lucene.Net.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.AspNet.OData.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.OData.Core.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.OData.Edm.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.Spatial.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Mvp.Xml.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Kernel.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Logging.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Logging.Client.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.NVelocity.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Web.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Sitecore.Zip.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Http.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Http.Cors.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.Razor.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\obj\Debug\Sitecore.Resideo.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\obj\Debug\Sitecore.Resideo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\obj\Debug\Sitecore.Resideo.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\obj\Debug\Sitecore.Resideo.dll
+C:\Users\Administrator\Downloads\Resideo\Resideo\Resideo\obj\Debug\Sitecore.Resideo.pdb
