@@ -203,7 +203,6 @@
   <ItemGroup>
     <Content Include="App_Config\Include\Feature\Resideo.config" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
-    <Content Include="Script\bundle.js" />
     <Content Include="Views\Shared\_Default.cshtml" />
     <Content Include="Views\Navigation\Navigation.cshtml" />
     <None Include="Web.config">
