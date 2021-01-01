@@ -1,30 +1,40 @@
-﻿using Sitecore.Diagnostics;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using Sitecore.Diagnostics;
+using Sitecore.Resideo.Models;
+using Sitecore.Services.Infrastructure.Web.Http;
 using System;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Formatting;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace Sitecore.Resideo.Controllers
 {
-    public class LoginController : ApiController
+    [EnableCors("*", "*", "*")]
+    public class LoginController : ServicesApiController
     {
-        public HttpResponseMessage Authenticate(FormDataCollection formcollection)
+        public HttpResponseMessage Authenticate(JObject jsonResult)
         {
             try
             {
-                var user = Sitecore.Security.Authentication.AuthenticationManager.BuildVirtualUser(Context.Domain.Name + @"\" + formcollection["email"], true);
-                if (user != null)
+                var data = JsonConvert.DeserializeObject<LoginDetail>(jsonResult.ToString());
+                if (!string.IsNullOrEmpty(Context.User?.Name?.ToString()) && Context.User?.Profile?.FullName?.ToString().ToLowerInvariant() != data.Email)
                 {
-                    var domainRole = $"{Context.Domain}";
-                    if (Sitecore.Security.Accounts.Role.Exists(domainRole))
+                    var user = Sitecore.Security.Authentication.AuthenticationManager.BuildVirtualUser(Context.Domain.Name + @"\" + data?.Email, true);
+                    if (user != null)
                     {
-                        user.Roles.Add(Sitecore.Security.Accounts.Role.FromName(domainRole));
+                        var domainRole = $"{Context.Domain}";
+                        if (Sitecore.Security.Accounts.Role.Exists(domainRole))
+                        {
+                            user.Roles.Add(Sitecore.Security.Accounts.Role.FromName(domainRole));
+                        }
+                        user.Profile.FullName = data?.Name;
+                        user.Profile.SetCustomProperty("Id", data?.Id);
+                        user.Profile.Save();
+                        Security.Authentication.AuthenticationManager.LoginVirtualUser(user);
                     }
-                    user.Profile.FullName = formcollection["name"];
-                    user.Profile.SetCustomProperty("Id", formcollection["sub"]);
-                    user.Profile.Save();
-                    Security.Authentication.AuthenticationManager.LoginVirtualUser(user);
                 }
                 return Request.CreateResponse(HttpStatusCode.OK, Context.User.Name.ToString());
             }

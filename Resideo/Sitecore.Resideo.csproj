@@ -203,6 +203,9 @@
   <ItemGroup>
     <Content Include="App_Config\Include\Feature\Resideo.config" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <Content Include="Script\bundle.js" />
+    <Content Include="Views\Shared\_Default.cshtml" />
+    <Content Include="Views\Navigation\Navigation.cshtml" />
     <None Include="Web.config">
       <SubType>Designer</SubType>
     </None>
@@ -211,6 +214,8 @@
     <Compile Include="Constants.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\LogosController.cs" />
+    <Compile Include="Controllers\NavigationController.cs" />
+    <Compile Include="Models\LoginDetail.cs" />
     <Compile Include="Models\Logo.cs" />
     <Compile Include="Templates.cs" />
     <Compile Include="Controllers\ProductsController.cs" />
