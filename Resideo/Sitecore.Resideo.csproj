@@ -205,6 +205,8 @@
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="Views\Shared\_Default.cshtml" />
     <Content Include="Views\Navigation\Navigation.cshtml" />
+    <Content Include="Views\Navigation\Products.cshtml" />
+    <None Include="Views\Web.config" />
     <None Include="Web.config">
       <SubType>Designer</SubType>
     </None>
@@ -216,6 +218,8 @@
     <Compile Include="Controllers\NavigationController.cs" />
     <Compile Include="Models\LoginDetail.cs" />
     <Compile Include="Models\Logo.cs" />
+    <Compile Include="Repositories\IProductRepository.cs" />
+    <Compile Include="Repositories\ProductRepository.cs" />
     <Compile Include="Templates.cs" />
     <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Models\Product.cs" />

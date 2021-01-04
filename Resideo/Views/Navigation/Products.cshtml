@@ -1,0 +1,20 @@
+﻿@using Sitecore.Resideo.Models
+@model Sitecore.Resideo.Models.Product
+<html>
+<body>
+    @if (Model.Product != null)
+    {
+        foreach(var data in Model.Product)
+        {
+            <div class="card" style="width: 18rem;">
+                <img src=data.ProductImageUrl class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">data.ProductTitle</h5>
+                    <p class="card-text">data.ProductDescription</p>
+                    <a href=data.ProductLink class="btn btn-primary">data.ProductLinkText</a>
+                </div>
+            </div>
+        }
+    }
+</body>
+</html>
