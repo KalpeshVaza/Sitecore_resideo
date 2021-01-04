@@ -425,8 +425,8 @@ C:\Project\Sitecore_resideo\Resideo\bin\System.Web.WebPages.xml
 C:\Project\Sitecore_resideo\Resideo\bin\System.Web.WebPages.Deployment.xml
 C:\Project\Sitecore_resideo\Resideo\bin\System.Web.WebPages.Razor.xml
 C:\Project\Sitecore_resideo\Resideo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\Sitecore_resideo\Resideo\obj\Debug\Sitecore.Resideo.csprojAssemblyReference.cache
 C:\Project\Sitecore_resideo\Resideo\obj\Debug\Sitecore.Resideo.csproj.CoreCompileInputs.cache
 C:\Project\Sitecore_resideo\Resideo\obj\Debug\Sitecore.Resideo.csproj.CopyComplete
 C:\Project\Sitecore_resideo\Resideo\obj\Debug\Sitecore.Resideo.dll
 C:\Project\Sitecore_resideo\Resideo\obj\Debug\Sitecore.Resideo.pdb
-C:\Project\Sitecore_resideo\Resideo\obj\Debug\Sitecore.Resideo.csprojAssemblyReference.cache

@@ -4,9 +4,9 @@ namespace Sitecore.Resideo
 {
     public class Constants
     {
-        public static readonly ID SiteHomePage = new ID("{33005B7F-BCF2-4D50-8DB8-E7C662F235C1}");
-        public static readonly ID ProductsTemplateId = new ID("{8AEB7543-18BA-4B9E-AB85-6353D38BBFE0}");
-        public static readonly ID LogoTemplateId = new ID("{CBF510FD-91C8-4EFB-8101-BCCA18D7580C}");
-        public static readonly ID LogoFolder = new ID("{49A0FD68-6AE9-4C7C-AC93-8C45B12311DB}");
+        public static readonly ID SiteHomePage = new ID("{5916D0ED-C1C4-4351-8B67-526252D40589}");
+        public static readonly ID ProductsTemplateId = new ID("{DA8900FA-FD66-45AA-9D66-C728DBDD0014}");
+        public static readonly ID LogoTemplateId = new ID("{7E476BD7-3BD9-4982-A731-D5A1F564AAD4}");
+        public static readonly ID LogoFolder = new ID("{6623E472-689F-4318-9750-9F7341B0C7FC}");
     }
 }
