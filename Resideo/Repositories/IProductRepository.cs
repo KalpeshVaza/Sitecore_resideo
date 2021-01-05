@@ -5,6 +5,6 @@ namespace Sitecore.Resideo.Repositories
 {
     public interface IProductRepository
     {
-        List<Product> GetProducts();
+        List<Product> GetProducts(bool fullUrl);
     }
 }

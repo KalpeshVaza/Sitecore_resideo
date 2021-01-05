@@ -11,7 +11,7 @@ namespace Sitecore.Resideo.Repositories
 {
     public class ProductRepository : IProductRepository
     {
-        public List<Product> GetProducts()
+        public List<Product> GetProducts(bool fullUrl = false)
         {
             try
             {
@@ -28,7 +28,7 @@ namespace Sitecore.Resideo.Repositories
                         {
                             ProductTitle = item.Fields[Templates.Product.Fields.ProductTitle].Value,
                             ProductDescription = item.Fields[Templates.Product.Fields.ProductDescription].Value,
-                            ProductImageUrl = MediaManager.GetMediaUrl(imageField?.MediaItem, new MediaUrlOptions { AlwaysIncludeServerUrl = true }),
+                            ProductImageUrl =(fullUrl)?MediaManager.GetMediaUrl(imageField?.MediaItem, new MediaUrlOptions { AlwaysIncludeServerUrl = true }): MediaManager.GetMediaUrl(imageField?.MediaItem),
                             ProductLink = linkField?.Url,
                             ProductLinkText = linkField?.Text
                         };

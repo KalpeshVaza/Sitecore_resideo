@@ -61,7 +61,7 @@ namespace Sitecore.Resideo.Controllers
             try
             {
                 ProductRepository productRepository = new ProductRepository();
-                List<Product> products = productRepository.GetProducts();
+                List<Product> products = productRepository.GetProducts(true);
                 return Request.CreateResponse(HttpStatusCode.OK, products);
             }
             catch (Exception ex)
