@@ -244,10 +244,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/04/2021 09:49:14</publishTime>
     </File>
     <File Include="bin/Sitecore.Resideo.dll">
-      <publishTime>01/05/2021 05:51:51</publishTime>
+      <publishTime>01/05/2021 11:59:07</publishTime>
     </File>
     <File Include="bin/Sitecore.Resideo.pdb">
-      <publishTime>01/05/2021 05:51:51</publishTime>
+      <publishTime>01/05/2021 11:59:07</publishTime>
     </File>
     <File Include="bin/Sitecore.Services.Core.dll">
       <publishTime>01/04/2021 09:49:14</publishTime>
@@ -340,7 +340,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/30/2020 12:06:01</publishTime>
     </File>
     <File Include="Views/Navigation/Footer.cshtml">
-      <publishTime>01/05/2021 05:47:53</publishTime>
+      <publishTime>01/05/2021 06:06:32</publishTime>
     </File>
     <File Include="Views/Navigation/Navigation.cshtml">
       <publishTime>01/05/2021 05:33:22</publishTime>
