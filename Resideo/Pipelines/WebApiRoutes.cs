@@ -21,6 +21,10 @@
             {
                 controller = "Login"
             });
+            RouteTable.Routes.MapRoute("NavigationApi", "api/navigation/{action}", new
+            {
+                controller = "Navigation"
+            });
         }
     }
 }

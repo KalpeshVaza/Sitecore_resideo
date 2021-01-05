@@ -24,11 +24,11 @@ namespace Sitecore.Resideo.Controllers
     [EnableCors("http://localhost:3000", "*","*")]
     public class ProductsController : ServicesApiController
     {
-        private readonly IProductRepository _productsRepository;
-        public ProductsController(IProductRepository productRepository)
-        {
-            _productsRepository = productRepository;
-        }
+        //private readonly IProductRepository _productsRepository;
+        //public ProductsController(IProductRepository productRepository)
+        //{
+        //    _productsRepository = productRepository;
+        //}
         public HttpResponseMessage GetItemData(string item)
         {
             if(string.IsNullOrEmpty(item))
@@ -65,14 +65,43 @@ namespace Sitecore.Resideo.Controllers
         {
             try
             {
-                var products = _productsRepository.GetProducts();
+                var homePage = Sitecore.Context.Database.GetItem(Constants.SiteHomePage);
+                var items = homePage?.GetChildren().Where(w => w?.TemplateID == Constants.ProductsTemplateId)?.ToList();
+                List<Product> products = new List<Product>();
+                if (items != null && items.Count > 0)
+                {
+                    foreach (var item in items)
+                    {
+                        var linkField = (LinkField)item.Fields[Templates.Product.Fields.ProductLink];
+                        var imageField = (ImageField)item.Fields[Templates.Product.Fields.ProductImage];
+                        Product product = new Product()
+                        {
+                            ProductTitle = item.Fields[Templates.Product.Fields.ProductTitle].Value,
+                            ProductDescription = item.Fields[Templates.Product.Fields.ProductDescription].Value,
+                            ProductImageUrl = MediaManager.GetMediaUrl(imageField?.MediaItem, new MediaUrlOptions { AlwaysIncludeServerUrl = true }),
+                            ProductLink = linkField?.Url,
+                            ProductLinkText = linkField?.Text
+                        };
+                        products.Add(product);
+                    }
+                }
                 return Request.CreateResponse(HttpStatusCode.OK, products);
             }
             catch (Exception ex)
             {
-                Log.Error($"{typeof(ProductsController)}::{nameof(GetItems)}", ex, Context.User);
+                Log.Error($"{typeof(ProductRepository)}::{nameof(GetItems)}", ex, Context.User);
                 return Request.CreateResponse(HttpStatusCode.ExpectationFailed, "Something Went Wrong.");
             }
+            //try
+            //{
+            //    var products = _productsRepository.GetProducts();
+            //    return Request.CreateResponse(HttpStatusCode.OK, products);
+            //}
+            //catch (Exception ex)
+            //{
+            //    Log.Error($"{typeof(ProductsController)}::{nameof(GetItems)}", ex, Context.User);
+            //    return Request.CreateResponse(HttpStatusCode.ExpectationFailed, "Something Went Wrong.");
+            //}
 
         }
 

@@ -206,6 +206,7 @@
     <Content Include="Views\Shared\_Default.cshtml" />
     <Content Include="Views\Navigation\Navigation.cshtml" />
     <Content Include="Views\Navigation\Products.cshtml" />
+    <Content Include="Views\Navigation\Footer.cshtml" />
     <None Include="Views\Web.config" />
     <None Include="Web.config">
       <SubType>Designer</SubType>
